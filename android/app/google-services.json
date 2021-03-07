@@ -44,6 +44,43 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:331775188497:android:9028712376c713a31a1bb0",
+        "android_client_info": {
+          "package_name": "com.dakterbari.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331775188497-k16gj461uvqt8oug8ku3rfjf4iv9mept.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dakterbari.demo",
+            "certificate_hash": "ce25e5027bab8ec05c99d82f88b85973477ce79e"
+          }
+        },
+        {
+          "client_id": "331775188497-ck5867vvp8jed1je52s5n3rge9sojs4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIxhn3hGn6GLo-GluXtFh7aD5SYvOhCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331775188497-ck5867vvp8jed1je52s5n3rge9sojs4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:331775188497:android:5982d2f3f14692a51a1bb0",
         "android_client_info": {
           "package_name": "com.dakterbari.doctorpanel"
